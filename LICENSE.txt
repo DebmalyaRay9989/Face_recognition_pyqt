@@ -1,0 +1,52 @@
+
+
+End-User License Agreement (EULA)
+
+Please read this agreement carefully before installing the software.
+
+By installing this software, you agree to the following terms:
+
+1. You are not allowed to distribute the software.
+2. The software is provided "as is" without any warranties.
+3. You agree to use the software in accordance with local laws.
+
+If you agree to these terms, click "Install" to continue.
+
+---
+
+**Licensee Information**
+Software Name: FaceRecognitionApplication
+Version: 1.0
+License Type: Personal or Internal Use Only
+Creator Name: Debmalya Ray
+---
+
+**Agreement Terms**
+
+1. **License Grant**: You are granted a non-exclusive, non-transferable license to use this software for personal or internal business purposes only. The software is licensed, not sold.
+
+2. **Restrictions**: 
+   - You are not allowed to distribute, sell, rent, lease, or sublicense the software in any form.
+   - You are prohibited from reverse engineering, decompiling, or disassembling the software.
+   - You may not modify or create derivative works of the software.
+
+3. **Software "As Is"**: 
+   - The software is provided "as is" without any warranties or guarantees, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+   - The software provider makes no representations about the suitability of the software for your needs.
+
+4. **Limitation of Liability**: 
+   - The software provider shall not be liable for any damages, including direct, indirect, incidental, special, or consequential damages, arising out of the use or inability to use the software.
+   - This includes, but is not limited to, damages resulting from loss of data, profits, or use of the software.
+
+5. **Compliance with Local Laws**: You agree to use the software in accordance with all applicable local, state, and national laws.
+
+6. **Termination**: This license is effective until terminated. The license will terminate immediately if you breach any of the terms of this agreement. Upon termination, you must destroy all copies of the software.
+
+7. **Governing Law**: This agreement shall be governed by and construed in accordance with the laws of [Your Country/State].
+
+8. **Entire Agreement**: This EULA constitutes the entire agreement between you and the software provider and supersedes all prior or contemporaneous agreements, communications, and understandings.
+
+---
+
+If you agree to these terms, click "Install" to continue.
+
